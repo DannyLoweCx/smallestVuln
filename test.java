@@ -1,5 +1,5 @@
 class test
 {
-	// Tryna add a comment let's see what's up
+	// Tryna add a comment
 	String password = "abc123xxx";
 }
